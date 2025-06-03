@@ -1,8 +1,30 @@
-# Grup-LAI25-SM023
-## Anggota :
-|Cohort ID	|Nama|	Email|
-|---------|---------|---------|
-|A291YBF109|	Daffa Akhdan Fadhillah|	A291***109@devacademy.id|
-|A126YBF254|	Lutfi Aundrie Hermawan|	A126***254@devacademy.id|
-|A344XBF363|	Nabila Febriyanti Valentin|	A344***363@devacademy.id|
-|A496XBF483|	Tiani Ayu Lestari|	A496***483@devacademy.id|
+# Diagnosis Otomatis pada Penyakit Kulit 
+## LAI25-SM023
+Anggota Tim
+|Cohort ID	|Nama|	Universitas| Status|
+|---------|---------|---------|--------|
+|A291YBF109|	Daffa Akhdan Fadhillah|	Universitas Pasundan |Tidak Aktif|
+|A126YBF254|	Lutfi Aundrie Hermawan|	Politeknik Negeri  Bandung |Tidak Aktif|
+|A344XBF363|	Nabila Febriyanti Valentin|	 Universitas Pasundan |Tidak Aktif|
+|A496XBF483|	Tiani Ayu Lestari|Universitas Pelita Bangsa |Tidak Aktif|
+
+-------------
+"Dekripsi/ Ringkasan"
+
+Proyek ini dibikin sama tim Laskar AI buat Capstone Project
+
+# Fitur pada program capstone project
+
+# Pemanfaatan Teknologi 
+
+# Dataset yang dibutuhkan
+
+# Recomendation Specification
+
+# Installing for Code
+
+# Running Code
+
+# Struktur Direktori
+
+# 
