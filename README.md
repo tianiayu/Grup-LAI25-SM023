@@ -25,7 +25,8 @@ Proyek ini mengembangkan sistem diagnosis otomatis penyakit kulit menggunakan Co
  ┣ 📜 notebook.ipynb 
  ┣ 📜 README.md 
 
-📂 Dataset
+
+🖼️ Dataset
 Dataset dapat diakses pada link beribut: https://www.kaggle.com/datasets/arghianfaizalyusup/dataset-penyakit-kulit
 
 🔍 Kesimpulan
