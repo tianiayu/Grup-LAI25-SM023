@@ -3,7 +3,6 @@
 Anggota Tim
 |Cohort ID	|Nama|	Universitas| Status|
 |---------|---------|---------|--------|
-|A291YBF109|	Daffa Akhdan Fadhillah|	Universitas Pasundan |Tidak Aktif|
 |A126YBF254|	Lutfi Aundrie Hermawan|	Politeknik Negeri  Bandung |Tidak Aktif|
 |A344XBF363|	Nabila Febriyanti Valentin|	 Universitas Pasundan |Tidak Aktif|
 |A496XBF483|	Tiani Ayu Lestari|Universitas Pelita Bangsa |Tidak Aktif|
