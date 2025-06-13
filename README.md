@@ -1,4 +1,4 @@
-# Diagnosis Otomatis pada Penyakit Kulit 
+# Detect My Skin
 ## LAI25-SM023
 Anggota Tim
 |Cohort ID	|Nama|	Universitas| Status|
