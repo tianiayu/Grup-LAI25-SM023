@@ -8,11 +8,11 @@ Anggota Tim
 |A496XBF483|	Tiani Ayu Lestari|Universitas Pelita Bangsa |Tidak Aktif|
 
 -------------
-#📌 Deskripsi Proyek
+##📌 Deskripsi Proyek
 
 Proyek ini mengembangkan sistem diagnosis otomatis penyakit kulit menggunakan Convolutional Neural Network (CNN) dengan transfer learning VGG16. Sistem ini memungkinkan pengguna untuk mengunggah gambar penyakit kulit dan mendapatkan prediksi instan dengan tingkat kepercayaan tinggi.
 
-#🚀 Fitur Utama
+##🚀 Fitur Utama
 1. Klasifikasi otomatis penyakit kulit menggunakan AI
 2. Transfer learning dengan VGG16 untuk meningkatkan akurasi
 3. Data augmentasi untuk meningkatkan generalisasi model
