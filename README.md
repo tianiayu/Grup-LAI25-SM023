@@ -19,14 +19,18 @@ Proyek ini mengembangkan sistem diagnosis otomatis penyakit kulit menggunakan Co
 4. Inferensi berbasis gambar dengan antarmuka sederhana
 
 📂 Struktur Proyek
-1. Instal Dependencies
-Pastikan semua library yang diperlukan telah terinstal:
-```
-pip install tensorflow keras numpy matplotlib scikit-learn
-```
-2. Jalankan Google Colab
-Buka Google Colab, lalu unggah file notebook (.ipynb) dan jalankan sel satu per satu.
+ ┣ 📂 dataset/ 
+ ┣ 📂 models/ 
+ ┣ 📜 notebook.ipynb 
+ ┣ 📜 README.md 
 
 📂 Dataset
 Dataset dapat diakses pada link beribut: https://www.kaggle.com/datasets/arghianfaizalyusup/dataset-penyakit-kulit
 
+🔍 Kesimpulan
+Detect My Skin berhasil mengembangkan sistem diagnosis otomatis penyakit kulit berbasis AI menggunakan CNN dengan transfer learning VGG16. Akurasi validasi mencapai 88.51%, menunjukkan model mampu mengenali pola penyakit kulit dengan baik. Peningkatan melalui data augmentasi, hyperparameter tuning, dan Early Stopping membantu meningkatkan stabilitas dan performa model. Dapat digunakan oleh tenaga medis, masyarakat umum, dan peneliti, menjadikannya solusi inovatif untuk diagnosis penyakit kulit berbasis AI. 
+
+🚀 Rencana pengembangan ke depan: 
+1. Penambahan dataset lokal
+2. Integrasi dengan platform berbasis web atau mobile
+3. Validasi klinis untuk implementasi lebih luas
