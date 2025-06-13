@@ -19,6 +19,7 @@ Proyek ini mengembangkan sistem diagnosis otomatis penyakit kulit menggunakan Co
 4. Inferensi berbasis gambar dengan antarmuka sederhana
 
 📂 Struktur Proyek
+ 
  ┣ 📂 dataset/ 
  ┣ 📂 models/ 
  ┣ 📜 notebook.ipynb 
