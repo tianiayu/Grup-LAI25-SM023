@@ -40,7 +40,7 @@ Model dapat diakses pada link berikut: https://drive.google.com/file/d/1a6wRvHga
 # 🔍 Kesimpulan
 Detect My Skin berhasil mengembangkan sistem diagnosis otomatis penyakit kulit berbasis AI menggunakan CNN dengan transfer learning VGG16. Akurasi validasi mencapai 88.51%, menunjukkan model mampu mengenali pola penyakit kulit dengan baik. Peningkatan melalui data augmentasi, hyperparameter tuning, dan Early Stopping membantu meningkatkan stabilitas dan performa model. Dapat digunakan oleh tenaga medis, masyarakat umum, dan peneliti, menjadikannya solusi inovatif untuk diagnosis penyakit kulit berbasis AI. 
 
-# 🚀 Rencana pengembangan ke depan: 
+# 🚀 Rencana pengembangan ke depan 
 1. Penambahan dataset lokal
 2. Integrasi dengan platform berbasis web atau mobile
 3. Validasi klinis untuk implementasi lebih luas
