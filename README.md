@@ -33,8 +33,9 @@ Proyek ini mengembangkan sistem diagnosis otomatis penyakit kulit menggunakan Co
 
 Dataset dapat diakses pada link berikut: https://www.kaggle.com/datasets/arghianfaizalyusup/dataset-penyakit-kulit
 
-# 🧠Model
+# 🧠 Model
 
+Model dapat diakses pada link berikut: https://drive.google.com/file/d/1a6wRvHga2YZQxHWzkb0sL3bRdi0vzOLn/view?usp=sharing
 
 # 🔍 Kesimpulan
 Detect My Skin berhasil mengembangkan sistem diagnosis otomatis penyakit kulit berbasis AI menggunakan CNN dengan transfer learning VGG16. Akurasi validasi mencapai 88.51%, menunjukkan model mampu mengenali pola penyakit kulit dengan baik. Peningkatan melalui data augmentasi, hyperparameter tuning, dan Early Stopping membantu meningkatkan stabilitas dan performa model. Dapat digunakan oleh tenaga medis, masyarakat umum, dan peneliti, menjadikannya solusi inovatif untuk diagnosis penyakit kulit berbasis AI. 
